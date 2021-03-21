@@ -1,0 +1,32 @@
+2021-03-21 16:26:46 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:26:46 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:26:56 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:27:11 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:27:11 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:27:21 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:27:21 INFO  TestUnit:129 - Inicia ejecucion de TC - ValidaSwitch_Especialidades
+2021-03-21 16:27:29 INFO  TestUnit:129 - TC - ValidaSwitch_Especialidades - SUCCESS
+2021-03-21 16:27:44 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:27:44 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:27:54 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:27:54 INFO  TestUnit:129 - Inicia ejecucion de TC - ValidaSwitch_CombosEspeciales
+2021-03-21 16:28:13 INFO  TestUnit:129 - TC - ValidaSwitch_CombosEspeciales - SUCCESS
+2021-03-21 16:28:27 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:28:28 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:28:38 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:28:38 INFO  TestUnit:129 - Inicia ejecucion de TC - ValidaSwitch_Combo30cm
+2021-03-21 16:28:45 INFO  TestUnit:129 - TC - ValidaSwitch_Combo30cm - SUCCESS
+2021-03-21 16:29:01 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:29:01 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:29:11 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:29:11 INFO  TestUnit:129 - Inicia ejecucion de TC - Look & Feel Pantalla Pedidos
+2021-03-21 16:29:11 INFO  TestUnit:129 - Se valido Existencia del elemento - Combos Especiales
+2021-03-21 16:29:11 INFO  TestUnit:129 - Se valido Existencia del elemento - Combo 30 cm
+2021-03-21 16:29:12 INFO  TestUnit:129 - Se valido Existencia del elemento - Promociones
+2021-03-21 16:29:12 INFO  TestUnit:129 - Se valido Existencia del elemento - Especialidades
+2021-03-21 16:29:29 INFO  TestUnit:129 - TC - Look & Feel Pantalla Pedidos - SUCCESS
+2021-03-21 16:29:45 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:29:45 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:29:55 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
+2021-03-21 16:29:55 INFO  TestUnit:129 - Inicia ejecucion de TC - ValidaSwitch_Especialidades
+2021-03-21 16:30:03 INFO  TestUnit:129 - TC - ValidaSwitch_Especialidades - SUCCESS
