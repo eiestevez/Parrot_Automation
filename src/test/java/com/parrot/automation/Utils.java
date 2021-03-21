@@ -168,18 +168,7 @@ public class Utils {
             		 System.out.print(celda.getStringCellValue() +" ");
 				}
                  System.out.println("-");
-			}
-             
-
-             
-//             CellReference ref = new CellReference("B5");
-//             Row fila = shett.getRow(ref.getRow());
-//             if (fila != null) {
-//                 Cell columna = fila.getCell(ref.getCol());
-//                 datoExcel = columna.getRichStringCellValue().getString();
-//                 System.out.println("La informacion es: " + datoExcel);
-//             }
-                         
+			}                         
             resultFlag = Boolean.TRUE;
 
         }

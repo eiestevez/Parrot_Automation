@@ -46,5 +46,24 @@ public class TestLogin {
             System.out.println("Error in TestCase - LoginExitoso() " + e.getMessage());
         } 
     }
+	
+	@Test
+    public void LoginIncorrecto(AndroidDriver<AndroidElement> driver){
+		
+        try {
+        	u.WriteLog("Inicia ejecucion de TC - Login Incorrecto", "info");
+        	u.Wait(2);
+        	u.SetValue(driver,"editEmail", "Ivan Estevez");
+        	u.SetValue(driver,"editPassword", "PassTest");
+        	te.ScreenShot(driver);
+        	u.Click(driver,"//*[@class='android.widget.Button' and @index='6' and @text='INICIAR SESIÓN']");
+        	te.ScreenShot(driver);
+        	u.WriteLog("TC Login Incorrecto - SUCCESS", "info");
+        	
+        } catch (Exception e) {
+        	u.WriteLog("Error in TestCase - LoginIncorrecto() ", "error");
+            System.out.println("Error in TestCase - LoginIncorrecto() " + e.getMessage());
+        } 
+    }
     
 }

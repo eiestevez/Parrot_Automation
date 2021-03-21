@@ -30,3 +30,10 @@
 2021-03-21 16:29:55 INFO  TestUnit:129 - TC Login exitoso - SUCCESS
 2021-03-21 16:29:55 INFO  TestUnit:129 - Inicia ejecucion de TC - ValidaSwitch_Especialidades
 2021-03-21 16:30:03 INFO  TestUnit:129 - TC - ValidaSwitch_Especialidades - SUCCESS
+2021-03-21 16:45:57 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:45:58 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Incorrecto
+2021-03-21 16:46:05 INFO  TestUnit:129 - TC Login Incorrecto - SUCCESS
+2021-03-21 16:46:22 INFO  TestUnit:129 - APK Iniciada correctamente
+2021-03-21 16:46:23 INFO  TestUnit:129 - Inicia ejecucion de TC - Login Exitoso
+2021-03-21 16:46:31 ERROR TestUnit:132 - Ocurrio un error en - Click() 
+2021-03-21 16:46:37 ERROR TestUnit:132 - Ocurrio un error en - GetText() 
